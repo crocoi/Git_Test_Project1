@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "Hello VisualStudio Git!\n";
+	std::cout << "ローカルリポジトリで変更した場所!\n";
 }
